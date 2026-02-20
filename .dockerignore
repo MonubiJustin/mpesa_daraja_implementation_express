@@ -31,3 +31,6 @@ Thumbs.db
 # Documentation
 *.md
 docs/
+
+# other
+Dockerfile
